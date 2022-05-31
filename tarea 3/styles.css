@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold;
+    font-size: 56
+}
+h2 {
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+    font-size: 34
+}
+
+img{
+ display: block;
+ margin: 0px auto;
+}
+
+.page_link {
+  display: inline-block;
+  display: block;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: purple ;
+  font-size: 24
+
+}
